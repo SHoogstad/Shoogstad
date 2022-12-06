@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "* * * * *"}]
+  schedule: [{cron: "10 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
 jobs:
