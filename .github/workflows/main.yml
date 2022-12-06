@@ -12,13 +12,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.classic.svg
+          filename: metrics.sem.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_anilist: yes
+          plugin_anilist_user: Hoogstaddie
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
