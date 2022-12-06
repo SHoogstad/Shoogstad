@@ -1,1 +1,1 @@
-<img src="metrics.classi.svg"></img>
+<img src="metrics.classic.svg"></img>
