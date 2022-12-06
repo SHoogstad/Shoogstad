@@ -1,7 +1,7 @@
 name: repository
 on:
   # Schedule daily updates
-  schedule: [{cron: "5 * * * *"}]
+  schedule: [{cron: "15 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
 jobs:
