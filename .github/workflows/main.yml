@@ -18,8 +18,3 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_anilist: yes
-          plugin_anilist_user: hoogstaddie
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
-          plugin_anilist_limit: 10
