@@ -14,7 +14,6 @@ jobs:
         with:
           filename: metrics.ani.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
           plugin_anilist: yes
           plugin_anilist_user: hoogstaddie
           plugin_anilist_medias: anime
