@@ -11,7 +11,7 @@
     <tr>
         <td colspan="2">
             <div align="center">
-                <img src="/metrics.ani.svg" alt="Metric" width="max">
+                
             </div
         </td>
     </tr>
