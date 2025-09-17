@@ -15,7 +15,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🌱 Currently Learning
 
-- Java
+- c++
+- pytorch
 
 ## 📫 How to Reach Me
 
