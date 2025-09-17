@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 - 🌟 Passionate about AI, Robots, PHP and Laravel
 - 🎓 Student of Technical Computer Science / Computer Engineering
-- 💼 Student at Hogeschool Roterdam 
+- 💼 Student at Hogeschool Rotterdam 
 
 ## 🛠️ Skills
 
