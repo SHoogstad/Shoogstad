@@ -10,13 +10,12 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 🛠️ Skills
 
-- Programming Languages: Javascript, PHP, Python, HTML, CSS, C and C#
+- Programming Languages: Javascript, PHP, Python, HTML, CSS, C, C++ and C#
 - Technologies & Tools: Docker, Laravel, ComfyUI, Linux
 
 ## 🌱 Currently Learning
-
-- c++
-- pytorch
+- Pytorch (on hold)
+- Blender
 
 ## 📫 How to Reach Me
 
